@@ -1,9 +1,9 @@
 # PlotChart
 Target: Practice to use the QChart.
 
-This file form Qt examples:
-chart.h
-chart.cpp
-chartview.h
-chartview.cpp
+These files form Qt examples: <\br>
+chart.h <\br>
+chart.cpp <\br>
+chartview.h <\br>
+chartview.cpp <\br>
 
